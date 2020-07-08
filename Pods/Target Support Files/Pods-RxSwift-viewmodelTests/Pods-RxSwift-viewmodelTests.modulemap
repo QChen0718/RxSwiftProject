@@ -1,0 +1,6 @@
+framework module Pods_RxSwift_viewmodelTests {
+  umbrella header "Pods-RxSwift-viewmodelTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
